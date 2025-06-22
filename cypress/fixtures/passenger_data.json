@@ -1,26 +1,33 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
-  "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "TRAIN_NO": "20801",
+  "TRAIN_COACH": "2A",
+  "TRAVEL_DATE": "24/06/2025",
+  "SOURCE_STATION": "IPR",
+  "BOARDING_STATION": "PNBE",
+  "DESTINATION_STATION": "NDLS",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "M Rafi Alam",
+      "AGE": 40,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "Bushra Irfan",
+      "AGE": 39,
       "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Lower",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Rafat Parween",
+      "AGE": 70,
+      "GENDER": "Female",
+      "SEAT": "Lower",
       "FOOD": "No Food"
     }
   ],
